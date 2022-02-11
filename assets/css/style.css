@@ -50,7 +50,7 @@ nav a {
 
 nav a:hover {
     background-color: #39aae1;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 #banner {
@@ -74,7 +74,7 @@ nav a:hover {
 }
 
 .banner_headline h1 {
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 70px;
     text-shadow: 0px 1px 0px #555555;
     margin: 0;
@@ -83,7 +83,7 @@ nav a:hover {
 }
 
 .banner_headline h2 {
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 21px;
     text-shadow: 0px 1px 0px #555555;
     margin: 0;
@@ -101,7 +101,7 @@ nav a:hover {
 .banner2,
 .banner3 {
     flex: 1;
-    color: #FFFFFF;
+    color: #ffffff;
     padding: 20px;
 }
 
@@ -129,9 +129,9 @@ nav a:hover {
 
 .banner_options a {
     display: inline-block;
-    border: 1px solid #FFFFFF;
+    border: 1px solid #ffffff;
     padding: 5px;
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 13px;
     text-decoration: none;
 }
@@ -197,7 +197,7 @@ article .news_data {
 
 article .new_posted_at {
     background-color: #2b4c99;
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 12px;
     padding: 10px;
     margin-right: 2px;
@@ -205,7 +205,7 @@ article .new_posted_at {
 
 article .new_comments {
     background-color: #39aae1;
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 12px;
     padding: 10px;
 }
@@ -265,12 +265,12 @@ footer {
     display: block;
     text-decoration: none;
     padding: 20px;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 .footer_area {
     display: flex;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 .footer_areaitem {
@@ -309,7 +309,7 @@ footer .widget_title_text {
     background-color: #39aae1;
 }
 
-@media (max-width:600px) {
+@media (max-width: 600px) {
     .banner_headline {
         padding: 20px;
     }
@@ -349,7 +349,7 @@ footer .widget_title_text {
         position: absolute;
         left: 0;
         width: 100%;
-        background-color: #FFFFFF;
+        background-color: #ffffff;
     }
     header {
         height: auto;
